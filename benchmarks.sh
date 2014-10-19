@@ -1,3 +1,0 @@
-gdxg
-dupa
-blada
